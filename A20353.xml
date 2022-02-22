@@ -1,0 +1,1955 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Description of love with certaine [brace] epigrams, elegies, and sonnets : and also Iohnsons ansvver to Withers ... : with the Crie of Ludgate and the Song of the begger.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1620</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 61 KB of XML-encoded text transcribed from 35 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20353</idno>
+            <idno type="STC">STC 6769.7</idno>
+            <idno type="STC">ESTC S338</idno>
+            <idno type="EEBO-CITATION">22290905</idno>
+            <idno type="OCLC">ocm 22290905</idno>
+            <idno type="VID">25335</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20353)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 25335)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1750:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Description of love with certaine [brace] epigrams, elegies, and sonnets : and also Iohnsons ansvver to Withers ... : with the Crie of Ludgate and the Song of the begger.</title>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition.</edition>
+               </editionStmt>
+               <extent>[62] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edw. Griffin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1620.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Title within ornamental border.</note>
+                  <note>Signatures: A⁴(-A1) B-D⁸ E⁴.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Love poetry, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:25335:1"/>
+            <pb facs="tcp:25335:1" rendition="simple:additions"/>
+            <pb facs="tcp:25335:2" rendition="simple:additions"/>
+            <pb facs="tcp:25335:2"/>
+            <pb facs="tcp:25335:3" rendition="simple:additions"/>
+            <pb facs="tcp:25335:3" rendition="simple:additions"/>
+            <p>A Deſcription OF LOVE.</p>
+            <p>WITH certaine <hi>Epigrams. Elegies.</hi> and <hi>Sonnets.</hi>
+            </p>
+            <p>
+               <hi>AND</hi> Alſo IOHNSONS Anſwer to WITHERS.</p>
+            <p>
+               <hi>The Second Edition,</hi> With the Crie of LVDGATE.</p>
+            <p>AND The Song of the BEGGER.</p>
+            <p>LONDON. Printed by <hi>Edw. Griffin.</hi> 1620.</p>
+         </div>
+         <div type="poems">
+            <div type="author_to_his_book">
+               <pb facs="tcp:25335:4" rendition="simple:additions"/>
+               <pb facs="tcp:25335:4"/>
+               <head>Ad Librum.</head>
+               <l>MY little ſhip doth on the Ocean fleet,</l>
+               <l>That euery circumſpecting eye may ſee't:</l>
+               <l>Now in her iourney leſt ſhe chance to faile,</l>
+               <l>Let Printers pray ſhee may haue happy ſaile.</l>
+            </div>
+            <div type="to_the_reader">
+               <head>Ad Lectorem.</head>
+               <l>Some men there be that praiſe what's good they hear,</l>
+               <l>And ſome there are that carpe what ere it be:</l>
+               <l>Some men in <hi>Zoilus</hi> ghoſt will ſoone appeare,</l>
+               <l>And ſome with <hi>Ariſtippus</hi> flattery.</l>
+               <l>But carpe at what you can, diſpraiſe, back-bite,</l>
+               <l>I'le neuer hide my Poems from the light.</l>
+            </div>
+            <div type="to_the_ill-willed_reader">
+               <pb facs="tcp:25335:5"/>
+               <head>Ad lectorem maleuolum,</head>
+               <l>PAle faced Enuy aimes at greateſt men,</l>
+               <l>And by her nature euer ſeekes to clime;</l>
+               <l>If it be ſo ſurely, ſhe will not then</l>
+               <l>Looke-downe ſo low as for to view my rime,</l>
+               <l>But if againſt her nature ſhee will ſee't.</l>
+               <l>Her face to face my verſe ſhall dare to meete.</l>
+            </div>
+            <div type="to_the_ill-willed_reader">
+               <head>In eundem.</head>
+               <l>IF good it be I write, ſome pick-thanke-pate,</l>
+               <l>Will ſweare that I had ſome Coadinuate;</l>
+               <l>If naught it be, the more is my diſgrace;</l>
+               <l>For euery man will houte me to my face.</l>
+               <l>But ſpit your venome at me if you will,</l>
+               <l>I muſt write what is good or what is ill.</l>
+            </div>
+            <div type="to_the_candid_reader">
+               <pb facs="tcp:25335:5"/>
+               <head>Ad candidum Lectorem.</head>
+               <l>PLeaſe learned wits, I know I neuer ſhall,</l>
+               <l>For ſhallow is my wit, my will is all,</l>
+               <l>If that the meaneſt ſort I can but pleaſe,</l>
+               <l>I'le count this worke a play, this labour eaſe.</l>
+            </div>
+            <div type="to_the_reader">
+               <head>Ad Lectorem.</head>
+               <l>NOr good nor bad I can theſe verſes call,</l>
+               <l>Some bad I know, and yet not therefore all.</l>
+               <l>'Mongst ſweetest flowers no ſome nettles ſpring:</l>
+               <l>There's ſome blacke feathers in the Peaceckes wing.</l>
+               <l>Let not the bad then all the reſt diſgrace,</l>
+               <l>Faire <hi>Venus</hi> had a wart vpon her face.</l>
+            </div>
+            <div type="to_the_reader">
+               <pb facs="tcp:25335:6"/>
+               <head>Nemo Propheta in patria ſua.</head>
+               <l>GOod gentle Readers let me truely tell,</l>
+               <l>That Citty, Towne, and Countrey loues me well.</l>
+               <l>At home ſome hate me, too too well I know it;</l>
+               <l>They thinking me a Prophet or a Poet.</l>
+            </div>
+            <div type="to_the_reader">
+               <head>Ad Lectorem.</head>
+               <l>REad gently, gentle Reader, as t'is fit,</l>
+               <l>Leſt that your tongue ſhould ouer-runne my wit.</l>
+            </div>
+            <div type="author_defiantly_to_the_reader">
+               <head>Author.</head>
+               <l>ALas theſe rimes I had forgotten quite,</l>
+               <l>Not dreaming they ſhould come againe to light,</l>
+               <l>But ſure at this ſame pretty riming ſtuffe</l>
+               <l>The curious world, not ſcoffed hath enough,</l>
+               <l>But to come foorth againe ſince t'is my chance,</l>
+               <l>You ſhall not laugh me out of countenance.</l>
+            </div>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:25335:6"/>
+            <head>¶ A Deſcription <hi>OF LO<g ref="char:V">Ʋ</g>E.</hi>
+            </head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">N</seg>E're toucht my lips the <hi>Heliconian</hi> Well,</l>
+               <l>Mine eies ne'regazd vpon <hi>Parnaſſus</hi> Hill.</l>
+               <l>My tongue did neuer Ancients ſtories tell</l>
+               <l>My hand did neuer hold a curious quill.</l>
+               <l>Yet write I muſt, but if I barren bee,</l>
+               <l>And ſhew no wit, I'le ſhew my induſtry.</l>
+            </lg>
+            <lg>
+               <l>Where is that mortall man that can define</l>
+               <l>The thing cald loue, which all the gods do honor?</l>
+               <l>Her greatnes goes beyond the wit of mine,</l>
+               <l>I go beyond my wits; to thinke vpon her:</l>
+               <l>The more I think what this ſame loue ſhould be,</l>
+               <l>The leſſe I do conceiue what thing is ſhee.</l>
+            </lg>
+            <lg>
+               <l>A taske moſt weighty doe I vndergoe,</l>
+               <l>By vndertaking for to ſpeake of Loue,</l>
+               <l>Whoſe bare deſcription I did neuer know,</l>
+               <l>Whoſe definition poſe the gods aboue,</l>
+               <l>She's deafe yet heares, ſhe's dumb yet ſpeaks, ſhe's blind,</l>
+               <l>Yet <hi>Ianus</hi> like, ſhe ſeeth before, behind.</l>
+            </lg>
+            <pb facs="tcp:25335:7"/>
+            <lg>
+               <l>Like vnto Summers graſſe ſhee's freſh and greene,</l>
+               <l>Shee adornes the body as the flowers the field,</l>
+               <l>She in a Begger liues, as in a Queene,</l>
+               <l>She conquers <hi>Mars,</hi> and yet to <hi>Mars</hi> ſhee'l yeeld;</l>
+               <l>Shee's white, ſhee's red, ſhee's yellow as the gold,</l>
+               <l>Shee's euer liuing, yet is neuer old.</l>
+            </lg>
+            <lg>
+               <l>Inuiſible ſhee is, yet her we ſee,</l>
+               <l>Both Heauen and earth this goddeſſe doth inherit,</l>
+               <l>Shee's fleſh, ſhee's bloud, ſhee's bone as well as we.</l>
+               <l>Yet can ſhee nothing doe but with a ſpirit;</l>
+               <l>Shee is a ponderous feather, wittie folly,</l>
+               <l>A quicke thing ſlow, a merry melancholy.</l>
+            </lg>
+            <lg>
+               <l>Shee'l ſoone be angry, Shee'l be pleaſ'd aſſoone,</l>
+               <l>Maliciouſneſſe nere harbours in her mind.</l>
+               <l>She's hot i'the morning, but ſhee's cold ere noon,</l>
+               <l>She's rough, ſhee's calm, ſhee's hoggiſh, yet ſhee's kind,</l>
+               <l>She'l ſing, ſhe'l ſob, ſo that the curious fictio<g ref="char:cmbAbbrStroke">̄</g>
+               </l>
+               <l>May tearme and call her, a contradiction.</l>
+            </lg>
+            <lg>
+               <l>Shee is a reſtleſſe reſt, a fervent cold,</l>
+               <l>A wholſome poyſon, ſhee's a painfull pleaſure,</l>
+               <l>Exceeding ſhamefaſt, ſhee's exceeding bold;</l>
+               <l>Shee's bitter hony, ſhee's a gainleſſe treaſure,</l>
+               <l>Shee's too too looſe, yet too too faſt a knot.</l>
+               <l>Shee is a helliſh Heauen, what is ſhee not?</l>
+            </lg>
+            <pb facs="tcp:25335:7"/>
+            <lg>
+               <l>Shee made <hi>Leander</hi> paſſe the raging Seas,</l>
+               <l>His louing <hi>Hero</hi> that he might enioy;</l>
+               <l>Faire <hi>Helena</hi> did <hi>Paris</hi> better pleaſe,</l>
+               <l>Then all his kinsfolks, or the wealth in <hi>Troy:</hi>
+               </l>
+               <l>Shee's ſuch a thing that we ſo much reſpect,</l>
+               <l>That we our friends forget, our ſelues neglect.</l>
+            </lg>
+            <lg>
+               <l>Our natiue Country doe we quite forſake,</l>
+               <l>Our prudent parents will we diſobey,</l>
+               <l>Through deſert places iournies doe we make,</l>
+               <l>And ſo become ſome lurking Lions pray:</l>
+               <l>Nay more then this, downe quicke to hell we go,</l>
+               <l>As <hi>Orpheus</hi> did, if Loue would haue it ſo.</l>
+            </lg>
+            <lg>
+               <l>Whil'ſt on the key-cold earth our loue doth lie,</l>
+               <l>The ground ſends forth a comfortable heat,</l>
+               <l>Forgetting of her owne proprietie,</l>
+               <l>The ſtones ſeeme ſoft whilſt loue makes them her ſeat,</l>
+               <l>Down on the downs whil'ſt Louers lie together;</l>
+               <l>The down ſeems down, &amp; euery ſtone a fether.</l>
+            </lg>
+            <lg>
+               <l>Who her enioyes, enioyes all earthly pleaſure,</l>
+               <l>Who her enioyes, can feele no cold not heat,</l>
+               <l>Who her enioyes, enioyes a world of treaſure,</l>
+               <l>Who her enioyes, enioyes his drinke, his meat:</l>
+               <l>Shee's hony ſweet, her ſelfe not mixt with gall,</l>
+               <l>Who her enioyes, enioyeth all in all.</l>
+            </lg>
+            <pb facs="tcp:25335:8"/>
+            <lg>
+               <l>But if the goddeſſe Loue ſhould changed be,</l>
+               <l>And not perpetually abide the ſame;</l>
+               <l>Shee head-long fals into extremity,</l>
+               <l>She takes vpon her then another name.</l>
+               <l>Her white is blacke, her ſmillings changed are,</l>
+               <l>Shee is a fury growne which once was faire.</l>
+            </lg>
+            <lg>
+               <l>Her golden haires are turn'd to ſlimy ſnakes,</l>
+               <l>Her eies like fire, her touch doth poyſon ſpit;</l>
+               <l>Moſt grim and dreadfully her head ſhe ſhakes:</l>
+               <l>Which on her ſhoulders once did finely ſit.</l>
+               <l>Her pretty liſping tongue, &amp; wanton ſpeeches,</l>
+               <l>Are turnd to yelling, howling, and to ſcretches.</l>
+            </lg>
+            <lg>
+               <l>She whom the gods did loue to looke vpon,</l>
+               <l>Makes <hi>Pluto</hi> quiuer at her odious ſight:</l>
+               <l>Who was a Mate moſt meete for <hi>Ioue</hi> alone,</l>
+               <l>Is now become a Fiend of darkſome night;</l>
+               <l>Who once was louely and in rich eſtate.</l>
+               <l>Is wretched, hurtfull, and is turn'd to hate.</l>
+            </lg>
+            <lg>
+               <l>Your youthfull Youths will not ſo often knocke,</l>
+               <l>And beate their tender fiſts againſt the doore,</l>
+               <l>But ruſt and canker now conſumes the locke,</l>
+               <l>For want of vſe which ſhind with vſe before.</l>
+               <l>Shee keepes her home, and lurking there doth lie</l>
+               <l>In holes and corners free from company.</l>
+            </lg>
+            <pb facs="tcp:25335:8"/>
+            <lg>
+               <l>Speake what ſhe will, ſhee may, here's none that heares;</l>
+               <l>Let her bite, back-bite, ſlander or reuile,</l>
+               <l>Weep whilſt ſhee's weary, none reſpects her tears,</l>
+               <l>We know they come but from a Crocodile,</l>
+               <l>We know her arts, her cunning, charmes &amp; skill,</l>
+               <l>Who can ſeeme kinde to thoſe ſhe meanes to kill.</l>
+            </lg>
+            <lg>
+               <l>Then why for <hi>Roſa</hi> ſhould I carke and care?</l>
+               <l>Why for my <hi>Roſa</hi> ſhould I ſorrow feele,</l>
+               <l>Being ſhe's falſe, as much as ſhe is faire?</l>
+               <l>What once lay at my heart, lies at my heele:</l>
+               <l>For why, a foole I ſhould accounted be,</l>
+               <l>To die for her that skornes to liue with mee.</l>
+            </lg>
+            <lg>
+               <l>Farewell my <hi>Roſa,</hi> fickle as the winde,</l>
+               <l>Yet read theſe verſes which I make of you,</l>
+               <l>Scan them vpon your fingers, &amp; you'le finde</l>
+               <l>That euery ſtaffe and line of theſe be true:</l>
+               <l>Then ſince that you and I are now apart,</l>
+               <l>My Verſes feet be truer then thy heart.</l>
+            </lg>
+            <lg>
+               <l>Curſed be that beauty which was once my bliſſe,</l>
+               <l>Curſed be thoſe twinckling ſtar-like eies of thine,</l>
+               <l>Curſed be thoſe lips which gaue me kiſſe for kiſſe,</l>
+               <l>Curſed be the tong which told me, thou wert mine,</l>
+               <l>Curſed be thoſe arms which once did hold me faſt</l>
+               <l>And ten times curſed be what e're thou haſt.</l>
+            </lg>
+            <pb facs="tcp:25335:9"/>
+            <lg>
+               <l>Now to ſome vncouth deſart will I goe,</l>
+               <l>There will I lay me downe in melancholy,</l>
+               <l>Where croaking toads lie throtling out my woe,</l>
+               <l>Or where ſome ſnakes lie hiſſing at my folly:</l>
+               <l>There will I lay me downe, there will I ſtay,</l>
+               <l>And neuer turne vntill I turne to clay.</l>
+            </lg>
+            <lg>
+               <l>But ſoft, what ſlumber hath mine eies oppreſt,</l>
+               <l>What idle fantaſies diſturbs my braines,</l>
+               <l>What is it makes me raile amidſt my reſt,</l>
+               <l>In ſlumber ſweet what makes me talke of paines?</l>
+               <l>Pardon ſweet Loue, on me compaſſion take,</l>
+               <l>For this I dreaming or in paſſion ſpake.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Heliotropium</hi> makes no ſhew at night,</l>
+               <l>The proudeſt <hi>Peacocke</hi> hath no pleaſing crie,</l>
+               <l>The glittering Sunne reſerues his totall light,</l>
+               <l>Though miſtie cloudes may keepe it from our eie:</l>
+               <l>Pardon ſweet, loue, once more I pardon aske,</l>
+               <l>Faire is not foule, although ſhe weares a maske.</l>
+            </lg>
+            <lg>
+               <l>He ſomtimes feeles the pricks that puls the roſe;</l>
+               <l>Who hony takes may ſometimes touch the ſting,</l>
+               <l>The faireſt flowers may offend the noſe,</l>
+               <l>Death may be neere, although the Swan doth ſing:</l>
+               <l>Checks from ſuch cheekes, &amp; frownes from ſuch a face,</l>
+               <l>Sweet loue I like, ſo I may thee imbrace.</l>
+            </lg>
+            <pb facs="tcp:25335:9"/>
+            <lg>
+               <l>Then promiſe mee I may enioy thy ſight,</l>
+               <l>And faithfully thy word and promiſe keepe,</l>
+               <l>Leſt I lie rumbling all the irkeſome night,</l>
+               <l>Telling the tedious minutes wanting ſleepe:</l>
+               <l>For when ones loue doth ſtay a while away,</l>
+               <l>Each minute ſeems an houre, each houre a day.</l>
+            </lg>
+            <lg>
+               <head>Seeing.</head>
+               <l>What if I walke moſt richly through the towne,</l>
+               <l>What if I be ador'd like <hi>Mahomet,</hi>
+               </l>
+               <l>What if I take my reſt on beds of downe,</l>
+               <l>What if I doe inioy whole kingdomes? yet</l>
+               <l>All this is nought, vnleſſe my <hi>Roſa</hi> be</l>
+               <l>In preſence, to behold my brauerie.</l>
+            </lg>
+            <lg>
+               <head>Hearing.</head>
+               <l>What if the beſt Muſitians that be,</l>
+               <l>Take in their hand a ſeuerall inſtrument,</l>
+               <l>And play to me the ſweeteſt harmony</l>
+               <l>That euer was? yet were it no content;</l>
+               <l>The ſweeteſt tunes ſeems harſh vnto mine care,</l>
+               <l>Vnleſſe my <hi>Roſa</hi> be in place to heare.</l>
+            </lg>
+            <lg>
+               <head>Smelling.</head>
+               <l>What if my skin ſhould be by nature ſweete</l>
+               <l>Like <hi>Alexanders;</hi> whar if by perfumes</l>
+               <l>Each man ſhould ſmell me paſſing through the ſtreete,</l>
+               <l>What if my ſmell make ſweet ill-ſmelling roomes?</l>
+               <l>Theſe ſmels, theſe odors little will content me,</l>
+               <l>Vnleſſe my <hi>Roſa</hi> be in place to ſent me.</l>
+            </lg>
+            <pb facs="tcp:25335:10"/>
+            <lg>
+               <head>Taſting.</head>
+               <l>What if my Table be moſt richly ſpread</l>
+               <l>With the beſt iunkets can be made for men,</l>
+               <l>If nectar be my drinke, if that my bread</l>
+               <l>Be of the pureſt Mancher made, what then?</l>
+               <l>All theſe delights will not my palate pleaſe,</l>
+               <l>Leſt my <hi>Roſa</hi> be in place to taſte of theſe.</l>
+            </lg>
+            <lg>
+               <head>Feeling.</head>
+               <l>What if the faireſt Damſels in the Land</l>
+               <l>With ſoft ſilke skin and Alabaſter white,</l>
+               <l>Should all at once before me naked ſtand</l>
+               <l>To touch, they'd neither pleaſe my touch or ſight:</l>
+               <l>
+                  <hi>Roſa</hi> is ſhee, like whom there is none ſuch,</l>
+               <l>She is my eye, eare, ſmell, my taſt, my touch.</l>
+            </lg>
+            <lg>
+               <head>All the Senſes.</head>
+               <l>Her voice is pleaſant muſicke to the eare,</l>
+               <l>Her lookes doth like our ſight exceeding well:</l>
+               <l>Feed on her lips, ſhe is the daintieſt cheare,</l>
+               <l>'Mong all perfumes ſhe is the ſweeteſt ſmell:</l>
+               <l>Our hot deſire her water onely quenches,</l>
+               <l>She is the touch, the very ſenſe of Sences.</l>
+            </lg>
+            <lg>
+               <l>She is the Star by which the Ship men faile,</l>
+               <l>She is the hatches, ſhe wherein they reſt,</l>
+               <l>She is the wind which makes the proſperous gale,</l>
+               <l>She is the hauen, ſhe which pleaſeth beſt;</l>
+               <l>She is the Dolphin which <hi>Arion</hi> did</l>
+               <l>Preſerue from danger, whil'ſt he plaid and rid.</l>
+            </lg>
+            <pb facs="tcp:25335:10"/>
+            <lg>
+               <l>Then be my Pilot to direct my Ship,</l>
+               <l>Be thou the onely houſe where I may dwell,</l>
+               <l>Be thou the onely cup to touch my lip,</l>
+               <l>Be thou my heauen, and I ſhall feele no hell:</l>
+               <l>Be thou my winde in ſpite of <hi>Aeolus,</hi>
+               </l>
+               <l>My iourney then muſt needes be proſperous.</l>
+            </lg>
+            <lg>
+               <l>Now what is Loue, or what may we it call,</l>
+               <l>Tell me O thou that trieſt? I doe beſeech</l>
+               <l>You ſee, that onely ſhee's the ſenſes all;</l>
+               <l>I thinke ſhee's alſo all the parts of Speech:</l>
+               <l>To call her firſt a Noune, I thinke it good,</l>
+               <l>Who can be felt, ſeene, heard, or vnderſtood.</l>
+            </lg>
+            <lg>
+               <head>A Noune.</head>
+               <l>She is a <hi>Noune,</hi> and a <hi>Noune ſubſtantiue,</hi>
+               </l>
+               <l>And by that name I may her rightly call,</l>
+               <l>Who ſtands her ſelfe, vnleſſe another ſtriue</l>
+               <l>To fling her downe, and force her for to fall:</l>
+               <l>An <hi>Adiectiue</hi> ſhe may be alſo ſaid,</l>
+               <l>Who ſometime doth require anothers aid,</l>
+            </lg>
+            <lg>
+               <l>But of <hi>Nonne Subſtantiues</hi> there are two ſorts,</l>
+               <l>Some Nounes are proper, others common be,</l>
+               <l>The beſt of all Grammarians reports;</l>
+               <l>If it be ſo, yet both of theſe is ſhe:</l>
+               <l>She's proper, ſmall, and of but ſlender bone,</l>
+               <l>Shee is doubtfull, common yet to moe then one.</l>
+            </lg>
+            <pb facs="tcp:25335:11"/>
+            <lg>
+               <head>A Pronoune.</head>
+               <l>Shee is a <hi>Pronoune,</hi> like vnto a <hi>Noune,</hi>
+               </l>
+               <l>A <hi>Pronoune</hi> now ſhe may be called well,</l>
+               <l>For ſhe what ere is done throughout the towne,</l>
+               <l>To euery one that comes will ſhew and tell;</l>
+               <l>She buſie is, like Poets that be verſing,</l>
+               <l>She doth delight in ſhewing and rehearſing.</l>
+            </lg>
+            <lg>
+               <head>A Verbe.</head>
+               <l>Shee's a <hi>
+                     <g ref="char:V">Ʋ</g>erbe Actiue;</hi> for if any wooe,</l>
+               <l>And aske her if ſhe loues, ſhee'l ſay, I doe;</l>
+               <l>Shee is a <hi>Paſſiue</hi> too, for ſhee'l ſit ſtill,</l>
+               <l>And ſuffer any man to haue his will;</l>
+               <l>But yet to her I n'ere will be a Suter,</l>
+               <l>Shee's <hi>Actiue, Paſſiue,</hi> but to me a <hi>Neuter.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>A Participle.</head>
+               <l>Shee is a <hi>Participle</hi> too I know,</l>
+               <l>For ſhe has two ſtrings euer to her bow;</l>
+               <l>Shee is a <hi>Noune,</hi> a <hi>Verbe,</hi> yet ſometimes neither:</l>
+               <l>Shee ſometimes onely takes but part of either:</l>
+               <l>Foure kindes of <hi>Participles</hi> now there be,</l>
+               <l>But ſhee is of the <hi>Preter tenſe</hi> with me.</l>
+            </lg>
+            <lg>
+               <head>An Adverbe.</head>
+               <l>
+                  <hi>Adverbs</hi> of diuers kindes we know there be,</l>
+               <l>An <hi>Adverbe</hi> then of any kinde is ſhe,</l>
+               <l>Sometimes ſhee is of place, for here and there,</l>
+               <l>Nay looke for her, you'l finde her any where;</l>
+               <l>Shee's any <hi>Adverbe;</hi> if you would know why,</l>
+               <l>Shee'l wiſh, ſhee'l ſweare, flatter, affirme, deny.</l>
+            </lg>
+            <pb facs="tcp:25335:11"/>
+            <lg>
+               <head>A Coniunction.</head>
+               <l>Shee's a <hi>Coniunction copulatiue,</hi> for either</l>
+               <l>As cloſe as wax ſhee ioyneth things together,</l>
+               <l>Or a <hi>Diſinnctiue,</hi> for ſhee'l ſtir vp ſtrife,</l>
+               <l>(Hauing a naughty tongue) twixt man and wife:</l>
+               <l>She is a thing that's fit for any function,</l>
+               <l>Shee's any thing, therefore any <hi>Coniunction.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>A Prepoſition.</head>
+               <l>Shee is a part of ſpeech commonly ſet</l>
+               <l>Before all other parts of ſpeeches; yet</l>
+               <l>This part of ſpeech, we very often finde</l>
+               <l>Beyond, beſide, nigh, through, about, behinde:</l>
+               <l>She is a <hi>Prepoſition</hi> likewiſe ſeene,</l>
+               <l>Within, without, againſt, beneath, betweene:</l>
+            </lg>
+            <lg>
+               <head>An Interiection.</head>
+               <l>Since ſhe is any thing, we laſt of all,</l>
+               <l>May rightly her an <hi>Interiection</hi> call;</l>
+               <l>Sometimes ſhee's curſt, ſomtimes exceeding kind,</l>
+               <l>Troubled with diuers paſſiions of the minde;</l>
+               <l>Of maruelling, ſhee's often as <hi>Pape,</hi>
+               </l>
+               <l>Sometimes of laughing too, as <hi>Ha, ha, he.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>O you moſt braue coniuring Seminaries,</l>
+               <l>Read and attend my wofull wooing ſtory:</l>
+               <l>Take beades, make croſſes, ſay your <hi>Aue Maries,</hi>
+               </l>
+               <l>And pray I may be out of Purgatory:</l>
+               <l>For if I'me not in Purgatory here,</l>
+               <l>Ile not beleeue ther's any any where.</l>
+            </lg>
+         </div>
+         <div type="epigrams">
+            <pb facs="tcp:25335:12"/>
+            <pb facs="tcp:25335:12"/>
+            <head>Epigrams.</head>
+            <lg>
+               <head>Ad lectorem candidum.</head>
+               <l>THeſe Epigrams I made ſeuen yeeres agoe,</l>
+               <l>Before I rime or reaſon ſcarce did know:</l>
+               <l>Condemne me not for making theſe, alas,</l>
+               <l>It was not I, I am not as I was.</l>
+            </lg>
+            <lg>
+               <head>De Ligato non Ligato.</head>
+               <l>As 'twas my fortune by a wood to ride,</l>
+               <l>I ſaw two men, their armes behinde them tide:</l>
+               <l>The one lamenting there what did befall,</l>
+               <l>Cride, I'me vndone, my wife and children all:</l>
+               <l>The other hearing him, alowd did crie,</l>
+               <l>Vndoe me then, let me no longer lie:</l>
+               <l>But to be plaine, the men which there I found,</l>
+               <l>Were both vndone indeed, yet both faſt bound.</l>
+            </lg>
+            <pb facs="tcp:25335:13"/>
+            <lg>
+               <head>Ad Tonſerium.</head>
+               <l>
+                  <hi>Tonſerius</hi> onely liues by cutting haire,</l>
+               <l>And yet he brags, that Kings to him ſit bare:</l>
+               <l>Me thinkes he ſhould not brag and boaſt of it,</l>
+               <l>For he muſt ſtand to Beggers, whiles they ſit.</l>
+            </lg>
+            <lg>
+               <head>Mordaces ſapit vngues.</head>
+               <l>
+                  <hi>Philomathes</hi> once ſtudying to indite,</l>
+               <l>Nibled his fingers, and his nailes did bite:</l>
+               <l>By this I know not what he did intend,</l>
+               <l>Vnleſſe his wit lay at his fingers end.</l>
+            </lg>
+            <lg>
+               <head>In Vxorium.</head>
+               <l>
+                  <hi>Noctivagus</hi> walking in the euening ſad,</l>
+               <l>Met with a Spirit; whether it was good or bad,</l>
+               <l>He did not know: yet courage he did take,</l>
+               <l>And to the wandring ſpirit thus he ſpake;</l>
+               <l>If good thou beeſt, thou'lt hurt no ſilly men,</l>
+               <l>If thou beeſt bad, thou'ſt cauſe to loue me then,</l>
+               <l>For I thy Kinſman am, my wife ſo euill,</l>
+               <l>That I am ſure I maried with the Deuill.</l>
+            </lg>
+            <lg>
+               <head>In Naturam.</head>
+               <l>Nature did well in giuing poore men wit,</l>
+               <l>That fooles well monified, may pay for it.</l>
+            </lg>
+            <pb facs="tcp:25335:13"/>
+            <lg>
+               <head>Ad Canſidices.</head>
+               <l>To go to law, I haue no maw,</l>
+               <l>Although my ſure be ſure;</l>
+               <l>For I ſhall lacke ſutes to my backe,</l>
+               <l>Eare I my ſute procure.</l>
+            </lg>
+            <lg>
+               <head>Demoſthenis Imperfectio.</head>
+               <l>
+                  <hi>Demoſthenes</hi> both learning had and wit,</l>
+               <l>As we may gather by the bookes he writ:</l>
+               <l>Then blame him not, hauing ſo much to vtter,</l>
+               <l>If that his tongue did trip, or he did ſtutter.</l>
+            </lg>
+            <lg>
+               <head>In quendam Tobacconiſtam.</head>
+               <l>If mans fleſh be like ſwines, as it is ſaid,</l>
+               <l>The Metamorphoſis is ſooner made;</l>
+               <l>Then full fac'd <hi>Gnatho</hi> no Tobacco take,</l>
+               <l>Smoking your corps, leſt bacon you doe make.</l>
+            </lg>
+            <lg>
+               <head>In quendam Ebrium.</head>
+               <l>
+                  <hi>Cinna</hi> one time moſt wonderfully ſwore</l>
+               <l>That whil'ſt he breathed he would drink no more</l>
+               <l>But ſince I know his meaning, for I thinke</l>
+               <l>He meant, he would not breath whilſt he did drink.</l>
+            </lg>
+            <pb facs="tcp:25335:14" rendition="simple:additions"/>
+            <lg>
+               <head>In Adulatores.</head>
+               <l>Whilſt on the <hi>Heliotropium Sol</hi> doth ſhine,</l>
+               <l>Her cloſ'd and twiſted ſelfe it will vntwine,</l>
+               <l>But when from her bright <hi>Phabus</hi> takes his light,</l>
+               <l>She ſhuts againe as ſcornefull to the night.</l>
+               <l>Whilſt on me <hi>Phaebus</hi> ſun-ſhine ſhewes his face,</l>
+               <l>Each man with open armes will me embrace.</l>
+               <l>But when the Sunne of fortune'gins to ſet,</l>
+               <l>They clutch their owne, hauing no more to get.</l>
+            </lg>
+            <lg>
+               <head>In Superbum.</head>
+               <l>
+                  <hi>Sylla</hi> would take the vpper hand of mee,</l>
+               <l>Saying he was a better man then I;</l>
+               <l>I knew my ſelfe his better for to bee,</l>
+               <l>But yet the wall I gaue him willingly.</l>
+               <l>The wall he tooke, and take it euer ſhall,</l>
+               <l>For ſtill the weakeſt goeth to the wall.</l>
+            </lg>
+            <lg>
+               <head>Mulieris inconſtantia.</head>
+               <l>A woman may be faire, and yet her mind,</l>
+               <l>Is as vnconſtant as the wauering wind,</l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>enus</hi> her ſelfe is faire, ſhe ſhineth farre:</l>
+               <l>Yet ſhee's a Planet, and no fixed ſtarre.</l>
+            </lg>
+            <pb facs="tcp:25335:14"/>
+            <lg>
+               <head>Baſſae ſuperbia.</head>
+               <l>If it be true as ancient Authors write,</l>
+               <l>That Blackamores do paint their Deuils white,</l>
+               <l>Then why doth <hi>Baſſa</hi> brag that ſhe is faire,</l>
+               <l>When ſuch as ſhee moſt like the Deuils are?</l>
+            </lg>
+            <lg>
+               <head>In medices noſtri-ſeculi.</head>
+               <l>Twixt former times and ours there is great ods,</l>
+               <l>For they held men that were Phyſitians, Gods.</l>
+               <l>O what a happy age liue we in then,</l>
+               <l>That haue ſuch Gods before that they be men!</l>
+            </lg>
+            <lg>
+               <head>Pauperum felicitas.</head>
+               <l>Fortune doth fauour poore men moſt of all,</l>
+               <l>They hope to riſe, but rich men feare to fall.</l>
+            </lg>
+            <lg>
+               <head>Ad Coriatum.</head>
+               <l>
+                  <hi>Coriat</hi> ſhoes, and ſhirt did neuer ſhift</l>
+               <l>In his laſt voiage; would you know his drift?</l>
+               <l>It was becauſe he ſcorn'd that any one</l>
+               <l>Should ſay, he was a ſhifting Companion.</l>
+            </lg>
+            <lg>
+               <head>Ad Caluum.</head>
+               <l>
+                  <hi>Caluus</hi> to combe his head doth take no eare,</l>
+               <l>For why, there breeds no nits, where growes no haire.</l>
+            </lg>
+            <pb facs="tcp:25335:15"/>
+            <lg>
+               <head>In Eundem.</head>
+               <l>Haire on my head I neuer number ſhall,</l>
+               <l>Nor <hi>Calvus</hi> his, for he hath none at all.</l>
+            </lg>
+            <lg>
+               <head>Ad Aucipitem.</head>
+               <l>As <hi>Auceps</hi> walked with his peece to ſhoote,</l>
+               <l>Vpon a toad by chance he ſet his foote,</l>
+               <l>With that he ſtrait-way ſtarted backe and ſaid,</l>
+               <l>It was the fouleſt Creature, that was made.</l>
+               <l>But ſay he what he will, I thinke not ſo,</l>
+               <l>For he himſelfe a <hi>Fowler</hi> was I know.</l>
+            </lg>
+            <lg>
+               <head>In Balbum.</head>
+               <l>
+                  <hi>Balbus,</hi> with other men would angry be,</l>
+               <l>Becauſe they could not ſpeake ſo well as he.</l>
+               <l>For others ſpeake but with their mouth, he knowes</l>
+               <l>But <hi>Balbus</hi> ſpeakes both through the mouth and noſe.</l>
+            </lg>
+            <lg>
+               <head>Nulla dies ſine linea.</head>
+               <l>By euer learning <hi>Solon</hi> waxed old,</l>
+               <l>For time he knew, was better farre then gold.</l>
+               <l>Fortune would giue him gold, which would decay,</l>
+               <l>But fortune cannot giue him yeſterday.</l>
+            </lg>
+            <pb facs="tcp:25335:15"/>
+            <lg>
+               <head>In vino nulla veritas.</head>
+               <l>Truth is in wine, but none can finde it there,</l>
+               <l>For in your Tauerne, men will lie and ſweare.</l>
+            </lg>
+            <lg>
+               <head>In Pictorem.</head>
+               <l>
+                  <hi>Priſcus</hi> is excellent in making faces,</l>
+               <l>For he his eies, his noſe, his mouth diſplaces;</l>
+               <l>Since he hath skill in making theſe alone,</l>
+               <l>I wonder much he mendeth not his owne,</l>
+            </lg>
+            <lg>
+               <head>In Roſam Periuratam.</head>
+               <l>
+                  <hi>Roſa</hi> being falſe and periur'd, once a freind,</l>
+               <l>Bid me contented be, and marke her end.</l>
+               <l>But yet I care not, let my friend go fiddle,</l>
+               <l>And let him marke her end, Ile marke her middle.</l>
+            </lg>
+            <lg>
+               <head>Temporum inconſtantia.</head>
+               <l>Thoſe men that trauell all the world about,</l>
+               <l>Doe go to finde the rareſt faſhions out,</l>
+               <l>For all the neweſt faſhions that we weare,</l>
+               <l>We haue beyond Sea; They their faſhions here,</l>
+               <l>But now the world of faſhions ſeemeth dry,</l>
+               <l>We looke to finde them in the ſtarry skie.</l>
+               <l>For if you looke it now, this faſhion's new,</l>
+               <l>To weare a ſtarre on a Polonie ſhooe.</l>
+            </lg>
+            <pb facs="tcp:25335:16"/>
+            <lg>
+               <head>In Adulatorem.</head>
+               <l>The Dogge will euer barke before he bite,</l>
+               <l>The Theefe will bid you ſtand, before hee'le fight,</l>
+               <l>Each lurking beaſt, with ſome ſowre viſage will</l>
+               <l>Shew you a former ſigne of following ill:</l>
+               <l>But <hi>Marcus</hi> yet is ten-times worſe then theſe,</l>
+               <l>Whoſe heart is killing, when his words do pleaſe.</l>
+            </lg>
+            <lg>
+               <head>In Aulicum.</head>
+               <l>Man's but a worme, the wiſeſt ſort doth ſay,</l>
+               <l>Yet <hi>Clim</hi> the Courtier goes in fine array,</l>
+               <l>So that if man's a worme till hee's deceaſt,</l>
+               <l>He meanes to be a Silke-worme at the leaſt.</l>
+            </lg>
+            <lg>
+               <head>De morte Achillis.</head>
+               <l>
+                  <hi>Achilles</hi> heart no wound would hurt, his minde</l>
+               <l>No chance could fright, we in ſtory finde:</l>
+               <l>But yet he died when he did <hi>Paris</hi> feele;</l>
+               <l>Surely I thinke his heart was in his heele.</l>
+            </lg>
+            <pb facs="tcp:25335:16"/>
+            <lg>
+               <head>In Arrogantem.</head>
+               <l>When fooliſh <hi>Icarus</hi> like a Bird would flie,</l>
+               <l>With waxed wings he did aſcend on hie;</l>
+               <l>But when that <hi>Phoebus</hi> ſaw his proud intent,</l>
+               <l>Him head-long downe into the Sea he ſent.</l>
+               <l>Then <hi>Icarus</hi> cried, O that I had my wiſh,</l>
+               <l>I would not be a Bird, but be a fiſh.</l>
+            </lg>
+            <lg>
+               <head>Mulierum ſuperbia.</head>
+               <l>Why women weare a Fall, I do not know,</l>
+               <l>Vnleſſe it onely be to make a ſhow;</l>
+               <l>It's true indeed, to pride they're giuen all,</l>
+               <l>And pride the Prouerbe ſaies, muſt haue a fall.</l>
+            </lg>
+            <lg>
+               <head>In quandam Edentulam.</head>
+               <l>To <hi>Fuſca</hi> beefe and bacon very loathſome,</l>
+               <l>Chickens and Pigeons are not very toothſome;</l>
+               <l>No maruell though if them ſhe cannot eate,</l>
+               <l>Shee hath no teeth, and they are toothſome meate.</l>
+            </lg>
+            <lg>
+               <head>In viraginem</head>
+               <l>My wife while ſhe doth liue, her Will will take,</l>
+               <l>For when ſhe dying is, no will muſt make:</l>
+               <l>But if ſhee'le promiſe quickly for to die,</l>
+               <l>Ile grant her will, her life-time willingly.</l>
+            </lg>
+            <pb facs="tcp:25335:17"/>
+            <lg>
+               <head>In Calumniatores.</head>
+               <l>When <hi>Codrus</hi> catches fleas, what ere he ailes,</l>
+               <l>He kils them with his teeth, not with his nailes;</l>
+               <l>Saying that man by man might blameleſſe goe,</l>
+               <l>If euery one would vſe Back-biters ſo.</l>
+            </lg>
+            <lg>
+               <head>In Magiſtrum Leech fugitiuum.</head>
+               <l>A pillar of the Church ſome <hi>Leech</hi> doe call,</l>
+               <l>But ſuch as he are Caterpillars all:</l>
+               <l>Hee's fled to <hi>Rome,</hi> there's roome for ſuch as he,</l>
+               <l>We loue his roome, but not his company.</l>
+            </lg>
+            <lg>
+               <head>Vultus index animi.</head>
+               <l>If <hi>Phoebus</hi> good and bad doth ſee his ſigne,</l>
+               <l>
+                  <hi>Baſſa</hi> is bad; for ſhee when <hi>Sol</hi> doth ſhine</l>
+               <l>Doth weare a maske, leſt to the pearing Sunne,</l>
+               <l>Her countenance ſhould tell what ſhe hath done.</l>
+            </lg>
+            <pb facs="tcp:25335:17"/>
+            <lg>
+               <head>Ad Momum reſponſum.</head>
+               <l>Whilſt I, as I was wont, went neate and fine,</l>
+               <l>
+                  <hi>Momus</hi> me <hi>delicatulum</hi> did call;</l>
+               <l>This was the anſwere which I made to him,</l>
+               <l>Take you but halfe the word, and Ile take all.</l>
+            </lg>
+            <lg>
+               <head>De Educatione Authoris.</head>
+               <l>The City <hi>London</hi> to me life did giue,</l>
+               <l>And <hi>Weſtminſter</hi> did teach me how to liue:</l>
+               <l>To whether place I doe moſt dutie owe,</l>
+               <l>Good Readers tell me, for I hardly know.</l>
+            </lg>
+            <lg>
+               <head>Noſce teipſum.</head>
+               <l>Walking and meeting one not long agoe,</l>
+               <l>I ask'd who't was, he ſaid, he did not know;</l>
+               <l>I ſaid I know thee, ſo ſaid he, I you,</l>
+               <l>But he that knowes himſelfe I neuer knew.</l>
+            </lg>
+            <lg>
+               <head>Nimium ne crede colori.</head>
+               <l>When <hi>Baſſa</hi> walkes abroad, ſhe paints her face,</l>
+               <l>And then ſhe would be ſeene in euery place;</l>
+               <l>For then your Gallants who ſo ere they are,</l>
+               <l>Vnder a colour will account her faire.</l>
+            </lg>
+            <pb facs="tcp:25335:18"/>
+            <lg>
+               <head>In Macilentum.</head>
+               <l>When firſt of all I <hi>Macilent</hi> did ſee,</l>
+               <l>An vgly ſpirit, I thought him for to be;</l>
+               <l>But ſince I know the cauſe he look'd ſo grim,</l>
+               <l>Had hardly fleſh enough to couer him.</l>
+            </lg>
+            <lg>
+               <head>In faeneratorem.</head>
+               <l>
+                  <hi>Griper</hi> more money got then he could ſpend,</l>
+               <l>By mony which to others he did lend,</l>
+               <l>Say what he will, he was no gainer yet,</l>
+               <l>But he a Looſer was, which ſo did get:</l>
+               <l>To get by coſening, was his whole pretence,</l>
+               <l>By getting ſo, he loſt his conſcience.</l>
+            </lg>
+            <lg>
+               <head>In eundem.</head>
+               <l>Much gold you Griper gather and corrade,</l>
+               <l>By lending out to vſe a damned trade;</l>
+               <l>But whilſt of gold you are a Hell-u-o,</l>
+               <l>Much to the Deuill, much to hell you owe.</l>
+            </lg>
+            <pb facs="tcp:25335:18"/>
+            <lg>
+               <head>In ventriculum ſeſquipedalem.</head>
+               <l>
+                  <hi>Gaſter</hi> did ſeeme to me to want his eies,</l>
+               <l>For he could neither ſee his legs nor thighes;</l>
+               <l>But yet it was not ſo, he had his ſight,</l>
+               <l>Onely his belly hanged in his light.</l>
+            </lg>
+            <lg>
+               <head>In Aſſeclam.</head>
+               <l>
+                  <hi>Sextus</hi> in old apparell ſtill doth goe,</l>
+               <l>Yet all his ſute is new from top to toe:</l>
+               <l>It is no maruell though, if this be true,</l>
+               <l>His Maſters old apparell makes him new.</l>
+            </lg>
+            <lg>
+               <head>In Edentulum garrulum.</head>
+               <l>Nature the teeth doth as an hedge ordaine,</l>
+               <l>The nimble frisking tongue for to containe:</l>
+               <l>No maruell then ſince that the hedge is out,</l>
+               <l>If <hi>Fuſcus</hi> tongue walketh ſo faſt about.</l>
+            </lg>
+            <lg>
+               <head>Neceſsitas non habet legem.</head>
+               <l>
+                  <hi>Florus</hi> did beate his Cooke, and gan to ſweare,</l>
+               <l>Becauſe his meate was rotten roaſted there:</l>
+               <l>Peace good ſir, quoth the Cook, need hath no law,</l>
+               <l>'Tis rotten roſted, 'cauſe 'twas rotten raw.</l>
+            </lg>
+            <pb facs="tcp:25335:19"/>
+            <lg>
+               <head>In deauriculatum.</head>
+               <l>
+                  <hi>Thraſo</hi> vpon a pillar loſt his eare,</l>
+               <l>And euer ſince he hid that place with haire;</l>
+               <l>Now leaſt you <hi>Thraſo,</hi> or his friend would be,</l>
+               <l>Cut off your lockes, that we your eares may ſee.</l>
+            </lg>
+            <lg>
+               <head>Iri Paupertas.</head>
+               <l>
+                  <hi>Irus</hi> vſing to lie vpon the ground,</l>
+               <l>One morning vnder him a feather found;</l>
+               <l>Haue I all night here laine ſo hard (quoth he)</l>
+               <l>Hauing but one poore feather vnder me?</l>
+               <l>I wonder much then how they take their eaſe,</l>
+               <l>That night by night lies on a bed of theſe.</l>
+            </lg>
+            <lg>
+               <head>In malam vxorem.</head>
+               <l>
+                  <hi>Priſcus</hi> was weeping when his wife did die,</l>
+               <l>Yet he was then in better caſe then I,</l>
+               <l>I ſhould be merry, and ſhould thinke to thriue,</l>
+               <l>Had I but his dead wife for mine aliue.</l>
+            </lg>
+            <pb facs="tcp:25335:19"/>
+            <lg>
+               <head>Aenigma.</head>
+               <l>As <hi>Sextus</hi> once was opening of a nut,</l>
+               <l>With a ſharpe knife his finger deepely cut,</l>
+               <l>What ſigne is this quoth he, can any tell,</l>
+               <l>'Tis ſigne, quoth one, you haue cut your finger well:</l>
+               <l>Not ſo, ſaith he, for now my finger's ſore,</l>
+               <l>And I am ſure that it was well before.</l>
+            </lg>
+            <lg>
+               <head>De Paupertate Codri.</head>
+               <l>
+                  <hi>Codrus</hi> did ſerue a multitude with meate:</l>
+               <l>Yet he himſelfe had nothing for to eate:</l>
+               <l>Some men may thinke this frolicke miſery,</l>
+               <l>Or miſerable liberalitie.</l>
+               <l>Vermine did reede on him, when he perhaps</l>
+               <l>Did either feed on nothing or on ſcraps.</l>
+            </lg>
+            <lg>
+               <head>In Philogaſtrum.</head>
+               <l>
+                  <hi>Craeſus</hi> is rich, and gallant, faire, and fat,</l>
+               <l>
+                  <hi>Codrus</hi> thou art but poore, and what to that?</l>
+               <l>When he is dead, tell <hi>Craeſus</hi> this from me,</l>
+               <l>More wormes will feed on him, then will on thee.</l>
+            </lg>
+            <pb facs="tcp:25335:20"/>
+            <lg>
+               <head>In quendam Petatorem.</head>
+               <l>Bid <hi>Gnatho</hi> heare a Sermon, then hee'le ſay,</l>
+               <l>Hee's a dry fellow that doth preach to day;</l>
+               <l>But hee's a drier Fellow ſure, I thinke,</l>
+               <l>That ne're has from his noſe a pot of drinke.</l>
+            </lg>
+            <lg>
+               <head>In eundem.</head>
+               <l>
+                  <hi>Gnatho</hi> did ſweare that he would drinke no moe,</l>
+               <l>Flinging the beere away cauſe it run loe;</l>
+               <l>Nay faith, ſaies one, it is a ſinne to ſpil't,</l>
+               <l>For that is noble beere that runnes at tilt.</l>
+            </lg>
+            <lg>
+               <head>De Caſto amore.</head>
+               <l>Many accuſe me cauſe I could doe nothing,</l>
+               <l>Many accuſe' me 'cauſe I was a ſlow thing;</l>
+               <l>But ſoft my Maſters, I was politicke:</l>
+               <l>For had not I beene ſlow, ſhee had beene quicke.</l>
+            </lg>
+            <lg>
+               <head>Ad Cornutum.</head>
+               <l>
+                  <hi>Cornutus</hi> call'd his wife both whore and ſlut.</l>
+               <l>Quoth ſhe, youl'e neuer leaue your brawling, but;</l>
+               <l>But what, quoth he? quoth ſhe, the poſt or doore:</l>
+               <l>For you haue hornes to but, if I'me a whoore.</l>
+            </lg>
+            <pb facs="tcp:25335:20"/>
+            <lg>
+               <head>An Epigram.</head>
+               <l>The Shopmen Gallant go, and ſpruſe they are,</l>
+               <l>And giue their Workmen what they liſt for ware,</l>
+               <l>They drinke good wine, they feed vpon anchoues,</l>
+               <l>
+                  <hi>Sic vos non vobis, fertis aratra boues.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>An Epigram.</head>
+               <l>When I in Preſſe ſaw theſe things, not long ſince</l>
+               <l>I iudg'd they had beene tried by the bench;</l>
+               <l>For if the Iurie once had gone vpon them,</l>
+               <l>Leſſe they'd beene hang'd or burn'd, what had come on them.</l>
+            </lg>
+            <lg>
+               <head>Ad <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> F.</head>
+               <l>Since you your ſelfe did breake, you cunning are,</l>
+               <l>Cozening your kindred thus with broken ware.</l>
+            </lg>
+            <lg>
+               <head>Ad M. P.</head>
+               <l>Six yeeres I was a Seruant vnto thee,</l>
+               <l>Had I ſeru'd one yeere more, I had beene free;</l>
+               <l>But ſince you got me once vpon the hippe,</l>
+               <l>You turn'd me off, before my Prentiſhip.</l>
+            </lg>
+            <pb facs="tcp:25335:21"/>
+            <lg>
+               <head>An Epigram.</head>
+               <l>
+                  <hi>Cmna</hi> loued <hi>Roſa</hi> well, thinking her pure,</l>
+               <l>And was not quiet till he made her ſure,</l>
+               <l>She married yet another, but the end</l>
+               <l>Is this; ſhee's <hi>Cinnaes</hi> wife, the others friend.</l>
+            </lg>
+            <lg>
+               <head>Ad quoſdam Academicos.</head>
+               <l>You that ſo many precious houres looſe,</l>
+               <l>Fall cloſe vnto your ſtudie; let your Muſe</l>
+               <l>Thinke vpon nought but goodnes. Starue &amp; pine,</l>
+               <l>Before an houre paſſe without a line.</l>
+               <l>For euen as the riuer ebs and flowes,</l>
+               <l>This traſh and earthly treaſure, comes and goes,</l>
+               <l>But learning laſts vntill the day of doome,</l>
+               <l>Sea cannot ſinke it, nor fire it conſume,</l>
+               <l>What if thy friends, thee meate, nor money ſend,</l>
+               <l>Spend thy time well, though haſt enough to ſpend,</l>
+               <l>What if thou beeſt, by chaunce in priſon caſt,</l>
+               <l>'Mongſt thoſe that are in want, thou'lt find a waſte.</l>
+               <l>Nay one may come, thy face that nere did ſee.</l>
+               <l>And ſet thee out, as one deliuer'd mee.</l>
+            </lg>
+            <pb facs="tcp:25335:21"/>
+            <pb facs="tcp:25335:22" rendition="simple:additions"/>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:25335:22"/>
+            <head>A Loue Sonnet.</head>
+            <lg>
+               <l>I Loued a Laſſe a faire one,</l>
+               <l>As faire as e're was ſeene,</l>
+               <l>Shee was indeed a rare one,</l>
+               <l>Another <hi>Sheba</hi> Queene.</l>
+               <l>But foole as then I was,</l>
+               <l>I thought ſhe lou'd me too,</l>
+               <l>But now alas ſh's left me;</l>
+               <l>
+                  <hi>Falero, lero, loo.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Her haire like gold did gliſter,</l>
+               <l>Each eye was a ſtarre,</l>
+               <l>Shee did ſurpaſſe her ſiſter,</l>
+               <l>Which paſt all others farre.</l>
+               <l>She would me hony call,</l>
+               <l>Shee'd-O-ſhee'd kiſſe me too,</l>
+               <l>But now alas ſh'as left me,</l>
+               <l>
+                  <hi>Falero, lero, loo.</hi>
+               </l>
+            </lg>
+            <pb facs="tcp:25335:23"/>
+            <lg>
+               <l>In Summer-time to <hi>Medley</hi>
+               </l>
+               <l>My loue and I would goe,</l>
+               <l>The boate-men there ſtood ready,</l>
+               <l>My loue and I to rowe:</l>
+               <l>For creame there would we call,</l>
+               <l>For cakes, for pruines too,</l>
+               <l>But now alas ſh'as left me,</l>
+               <l>
+                  <hi>Falero, lero, loo.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Many a merrie meeting</l>
+               <l>My loue and I haue had,</l>
+               <l>Shee was my onely ſweeting,</l>
+               <l>Shee made my heart full glad,</l>
+               <l>The teares ſtood in her eies</l>
+               <l>Like to the morning dew,</l>
+               <l>But now alas ſh'as left me,</l>
+               <l>
+                  <hi>Falero, lero, loo.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And as abroad we walked,</l>
+               <l>As Louers faſhion is,</l>
+               <l>Oft we ſweetly talked,</l>
+               <l>The Sun would ſteale a kiſſe:</l>
+               <l>The winde vpon her lips</l>
+               <l>Likewiſe moſt ſweetly blew,</l>
+               <l>But now alas ſh'as left mee,</l>
+               <l>
+                  <hi>Falero, lero, loo.</hi>
+               </l>
+            </lg>
+            <pb facs="tcp:25335:23"/>
+            <lg>
+               <l>Her cheekes were like the cherry,</l>
+               <l>Her skin as white as ſnow,</l>
+               <l>When ſhe was blithe and merry,</l>
+               <l>She Angell-like did ſhew:</l>
+               <l>Her waſte exceeding ſmall,</l>
+               <l>The fiues did fit her ſhooe,</l>
+               <l>But now alas ſh'as left me,</l>
+               <l>
+                  <hi>Falero, lero, loo.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>In ſummer-time or winter</l>
+               <l>She had her hearts deſire,</l>
+               <l>I ſtill did ſcorne to ſtint her</l>
+               <l>From ſugar, ſacke, or fire:</l>
+               <l>The world went round about,</l>
+               <l>No cares we euer knew,</l>
+               <l>But now alas ſh'as left me,</l>
+               <l>
+                  <hi>Falero, lero, loo.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>As we walk'd home together</l>
+               <l>At midnight, through the towne,</l>
+               <l>To keepe away the weather,</l>
+               <l>O're her i'de caſt my gowne:</l>
+               <l>No cold my Loue ſhould feele,</l>
+               <l>What e're the heau'ns could doe.</l>
+               <l>But now alas ſh'as left me,</l>
+               <l>
+                  <hi>Falero, lero, loo.</hi>
+               </l>
+            </lg>
+            <pb facs="tcp:25335:24"/>
+            <lg>
+               <l>Like Doues we would be billing,</l>
+               <l>And clip and kiſſe ſo faſt,</l>
+               <l>Yet ſhe would be vnwilling,</l>
+               <l>That I ſhould kiſſe the laſt:</l>
+               <l>They're <hi>Iudas</hi> kiſſes now,</l>
+               <l>Since they prou'd all vntrue,</l>
+               <l>For now alas ſh'as left me,</l>
+               <l>
+                  <hi>Falero, lero, loo.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>To Maidens vowes and ſwearing,</l>
+               <l>Henceforth no credit giue,</l>
+               <l>You may giue them the hearing,</l>
+               <l>But neuer them beleeue;</l>
+               <l>They are as falſe as faire,</l>
+               <l>Vnconſtant, fraile, vntrue,</l>
+               <l>For mine alas has left me,</l>
+               <l>
+                  <hi>Falero, lero, loo.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>'Twas I that paid for all things,</l>
+               <l>'Twas others dranke the wine,</l>
+               <l>I cannot now recall things,</l>
+               <l>Liue but a foole to pine:</l>
+               <l>'Twas I that beate the buſh,</l>
+               <l>The bird to others flew,</l>
+               <l>For ſhe alas has left me,</l>
+               <l>
+                  <hi>Falero, lero, loo.</hi>
+               </l>
+            </lg>
+            <pb facs="tcp:25335:24"/>
+            <lg>
+               <l>If euer that Dame nature,</l>
+               <l>For this falſe Louers ſake,</l>
+               <l>Another pleaſing creature,</l>
+               <l>Like vnto her would make;</l>
+               <l>Let her remember this.</l>
+               <l>To make the other true,</l>
+               <l>For this alas hath left me,</l>
+               <l>
+                  <hi>Falero, lero, loo.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>No riches now can raiſe me,</l>
+               <l>No want makes me deſpaire,</l>
+               <l>No miſerie amaze me,</l>
+               <l>Nor yet for want I care:</l>
+               <l>I haue loſt a world it ſelfe,</l>
+               <l>My earthly heauen adue,</l>
+               <l>Since ſhe alas hath left me,</l>
+               <l>
+                  <hi>Falero, lero, loo.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="elegy">
+            <pb facs="tcp:25335:25"/>
+            <head>To his Loue fearing a Corriuall.</head>
+            <lg>
+               <l>THe poiſnous Spider, and the labouring Bee,</l>
+               <l>The one and ſelfe-ſame flower daily ſuckes;</l>
+               <l>But yet in nature much they diſagree,</l>
+               <l>For poiſon one, the other hony pluckes.</l>
+               <l>You are the flower (you know my meaning,) he</l>
+               <l>The poiſnous Spider is, and I the Bee.</l>
+            </lg>
+            <lg>
+               <l>But if you like that ſwelling creature beſt,</l>
+               <l>Whoſe onely trap can but inſnare a flie;</l>
+               <l>I'le leaue my writing, and I'le liue in reſt,</l>
+               <l>Vntill another Loue can like my eie.</l>
+               <l>But, if you leauing me, me none can pleaſe,</l>
+               <l>I'le lingering liue in paine, I'le pine in eaſe.</l>
+            </lg>
+            <lg>
+               <l>I am the Bee, if thou wilt be the Hiue,</l>
+               <l>Wherein no blacke nor poiſnous moiſture lies;</l>
+               <l>I'le be a painefull Bee, I'le daily ſtriue,</l>
+               <l>Home to returne to thee with loaden thighes:</l>
+               <l>And in the winter, when all flowers periſh,</l>
+               <l>The hiue the Bee, the Bee the hiue ſhall cheriſh.</l>
+            </lg>
+            <pb facs="tcp:25335:25"/>
+            <lg>
+               <l>'Tis not your fringe, your gloues, your bands, your lace,</l>
+               <l>Your gold, your fathers goods that I deſire;</l>
+               <l>But 'tis your golden haire, your comely face,</l>
+               <l>'Tis that, O that, that ſets my heart on fire:</l>
+               <l>Your hands, your heart, your loue, your comely hue.</l>
+               <l>Makes me forget my ſelfe, remembring you.</l>
+            </lg>
+            <lg>
+               <l>O that I were a hat for ſuch a head!</l>
+               <l>O that I were a gloue for ſuch a hand!</l>
+               <l>O that I were your ſheetes within your bed!</l>
+               <l>O that I were your ſhooe whereon you ſtand!</l>
+               <l>To be your very ſmocke! I'de daily ſeeke,</l>
+               <l>So that you would not ſhift me once a weeke,</l>
+            </lg>
+         </div>
+         <div type="elegy">
+            <pb facs="tcp:25335:26"/>
+            <head>Another to his Loue ſeeing her walke in twi-light.</head>
+            <lg>
+               <l>THe deepeſt waters haue the ſmootheſt looks,</l>
+               <l>The faireſt ſhirt may hide the fouleſt skin:</l>
+               <l>Bad lines are often writ in guilded bookes,</l>
+               <l>View not the outſide then, but looke within:</l>
+               <l>Try ere you truſt, and if all things be true,</l>
+               <l>Locke hands in hands, and ſeeke not for a new.</l>
+            </lg>
+            <lg>
+               <l>I muſt confeſſe, and will, I am but poore,</l>
+               <l>But rich I am in loue, perhaps you know:</l>
+               <l>But if you to ſome higher region ſoare,</l>
+               <l>Diſdaining for to take your flight ſo lowe,</l>
+               <l>Take heed leſt by ſome vehemencie of wether,</l>
+               <l>You chance to burn ſome, or ſcorch ſome other.</l>
+            </lg>
+            <lg>
+               <l>But tell me ſweet, if that thy minde be ſet</l>
+               <l>Vpon ſome other man; or if you know</l>
+               <l>What thing this Loue ſhould be, if not as yet,</l>
+               <l>Ile teach you what a thing is loue; O no:</l>
+               <l>What thing is loue? how can you learne of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</l>
+               <l>When firſt I learn'd to loue by ſeeing thee?</l>
+            </lg>
+            <pb facs="tcp:25335:26"/>
+            <lg>
+               <l>The pretty winding of thy comely head,</l>
+               <l>The decent rowling of thy liuely eie,</l>
+               <l>Thy tender lilly hand, hath ſtrucke me dead</l>
+               <l>Without a touch. Now what is Loue? T'is I,</l>
+               <l>T'is you, t'is I, t'is you, t'is both together,</l>
+               <l>You loue, I loue, both loues, ſweete loue come hither.</l>
+            </lg>
+            <lg>
+               <l>I caſt an eye vpon you yeſter-night,</l>
+               <l>But <hi>Phoebus</hi> Horſes went too great a pace,</l>
+               <l>Vnwilling to afford me ſo much light,</l>
+               <l>Wherein I plainely might diſcerne your face:</l>
+               <l>In ſpite of <hi>Phoebus,</hi> nay in ſpite of you.</l>
+               <l>I'le looke, I'le loue, t'is ſomwhat ſtrange, but true.</l>
+            </lg>
+         </div>
+         <div type="elegy">
+            <pb facs="tcp:25335:27"/>
+            <head>Deſiring an Anſwer from his loue.</head>
+            <lg>
+               <l>IF that I am vnworthy of your loue.</l>
+               <l>Let me be worthy of your anſwer yet,</l>
+               <l>That I may know whether I muſt remoue</l>
+               <l>My deare affection from you now, and ſet</l>
+               <l>My minde vpon my bookes, which now I feare</l>
+               <l>I ſpend in Loue toyes, and am n'ere the neere.</l>
+            </lg>
+            <lg>
+               <l>Prethee ſweet Loue, ſome prettie thing Indite,</l>
+               <l>Let thoſe thy prettie fingers hold a Pen;</l>
+               <l>Vpon ſome pretty peece of paper write,</l>
+               <l>Nature made Maidens pretty, and not men.</l>
+               <l>What <hi>Midas</hi> toucht was gold; you are ſo witty</l>
+               <l>That what you write, or touch, or do, 'tis prettie.</l>
+            </lg>
+            <lg>
+               <l>If you want paper, paper will I ſend you,</l>
+               <l>If you want Inke, I'le likewiſe ſend you Inke;</l>
+               <l>If that you want a Pen, a Pen Ile lend you,</l>
+               <l>What ere t'is you want, if that I can but thinke:</l>
+               <l>What 'tis, I'de freely giue it to you, ſo</l>
+               <l>You would but ſend an anſwer, I, or no.</l>
+            </lg>
+            <pb facs="tcp:25335:27"/>
+            <lg>
+               <l>I doe not write to thee for hope of gaines,</l>
+               <l>But onely for to gaine thy loue; ſo then</l>
+               <l>I prethee <hi>Roſa</hi> take a little paines;</l>
+               <l>Once more I prethee <hi>Roſa</hi> hold a Pen:</l>
+               <l>I long to heare from thee, I faine would know,</l>
+               <l>An anſwer from thee quickly, I, or no.</l>
+            </lg>
+            <lg>
+               <l>If it be I, then <hi>Roſa</hi> thou art mine,</l>
+               <l>Then will we ſpend our youthful daies in pleaſures</l>
+               <l>If it be No, yet <hi>Roſa</hi> am I thine:</l>
+               <l>What ere thy anſwere is, thou art my treaſure.</l>
+               <l>If that (ſweet heart) youl'd know the reaſon why,</l>
+               <l>It is, becauſe a Maidens No, is I.</l>
+            </lg>
+         </div>
+         <div type="elegy">
+            <pb facs="tcp:25335:28"/>
+            <head>¶ An Anſwere to her Anſwer.</head>
+            <l>SWeete Miſtris <hi>Roſa,</hi> for whoſe onely ſake</l>
+            <l>I'de run through fire and water, nay I'de make</l>
+            <l>A iourney through the dangerous vncuth places,</l>
+            <l>I'de meaſure all the world with weary paces</l>
+            <l>To doe you good: nay more, I'de loſe my heart,</l>
+            <l>Rather then haue your little finger ſmart:</l>
+            <l>But when you chance to read the ſame, I flatter</l>
+            <l>You then will ſay; but oh, it is no matter,</l>
+            <l>Mock, flout, neglect, diſdain, ſpit, ſpite, contemne,</l>
+            <l>I needs muſt loue my earthly Diadem.</l>
+            <l>I ſtouted others once in miſerie,</l>
+            <l>But other men may now well flout at me;</l>
+            <l>This is that dire and curſed puniſhment,</l>
+            <l>Which all the gods aboue to me hath ſent</l>
+            <l>For all my faults, O ſee with pitty ſee,</l>
+            <l>Sweet Loue, thy loue in wofull miſerie,</l>
+            <l>Whoſe eies ne're ſleepes, whoſe fancie ſtill is doing</l>
+            <l>Since that he knew what did belong to wooing:</l>
+            <l>Thou art the <hi>Clothe</hi> that hath ſpun my thred,</l>
+            <l>By which I ſeeme to liue, but yet am dead.</l>
+            <l>But prethee <hi>Roſa,</hi> if thoul't ſtop thy breath,</l>
+            <l>Kill quicke, let me not liue a lingring death:</l>
+            <l>Pitty, pitty, pitty, pitty, pitty.</l>
+            <l>Pretty, pretty, pretty, pretty, pretty,</l>
+            <l>Sweet, golden, lilly, liuely, tender maide,</l>
+            <l>Looke, like, liue, loue me well, and I am made.</l>
+         </div>
+         <div type="elegy">
+            <pb facs="tcp:25335:28"/>
+            <head>To his ſecond Loue.</head>
+            <lg>
+               <l>TWixt hope &amp; feare, I feare (ſweet Loue) I liue,</l>
+               <l>Thinking my heart was giuen long agoe;</l>
+               <l>Being one man, has but one heart to giue,</l>
+               <l>How can you looke for mine, yet thinke not ſo?</l>
+               <l>But trie me, truſt me, and ſweet heart, you'le ſee,</l>
+               <l>I haue a heart that's onely kept for thee.</l>
+            </lg>
+            <lg>
+               <l>Miſdoubt me not although I lou'd before,</l>
+               <l>Miſdoubt me not, but I lou'd faithfully;</l>
+               <l>Experience makes me now loue ten-times more,</l>
+               <l>I haue my leſſon now without booke, I:</l>
+               <l>When firſt I lou'd I was a fondling foole,</l>
+               <l>Now I am a Captaine made in <hi>Cupids</hi> ſchoole.</l>
+            </lg>
+            <lg>
+               <l>You ſmil'd on me, but if you'le ſmile no more,</l>
+               <l>What will thoſe men that know me now furmiſe?</l>
+               <l>Being I was forſaken once before.</l>
+               <l>They'le thinke me hatefull in a Maidens eiet:</l>
+               <l>They'l thinke all hate me, or ſuppoſe indeed,</l>
+               <l>I onely came to wooe, but not to ſpeed.</l>
+            </lg>
+            <pb facs="tcp:25335:29"/>
+            <lg>
+               <l>O how much am I bound to Nature now,</l>
+               <l>For making thee, that doſt ſo farre excell</l>
+               <l>Her, whom I thought excell'd all others; how</l>
+               <l>Am I now bound to nature pre' thee tell.</l>
+               <l>The difference 'twixt my firſt loue, and you</l>
+               <l>Is this, ſhee's faire and falſe, thou faire and true.</l>
+            </lg>
+            <lg>
+               <l>Miſdoubt me not, for by the Heauens aboue,</l>
+               <l>Thou ſhalt not finde me with a double tongue;</l>
+               <l>For if I am the man thou canſt not loue,</l>
+               <l>I am the man that will doe thee no wrong.</l>
+               <l>For if I ſpeake by thee but any euill,</l>
+               <l>Count me no more a Man, count me a Deuill.</l>
+            </lg>
+         </div>
+         <div type="elegy">
+            <pb facs="tcp:25335:29"/>
+            <head>Of the burning of his letter.</head>
+            <lg>
+               <l>LIke as the Moath about the candle flies,</l>
+               <l>Hoping to haue ſome comfort from the light,</l>
+               <l>Scorcheth her wings, and on a ſudden lies</l>
+               <l>Panting vpon the ground, or burned quite.</l>
+               <l>So I ſtill hoping thee ſweet heart to moue,</l>
+               <l>Conſume my ſelfe in burning flames of loue.</l>
+            </lg>
+            <lg>
+               <l>Alas, alas, thy beautie ſhines ſo bright,</l>
+               <l>It duls and dazels all that doe come nie thee,</l>
+               <l>This is the cauſe I neuer come, but write.</l>
+               <l>Without an Eagles eye, how dare I eye thee?</l>
+               <l>
+                  <hi>Cupid</hi> is blinde; then I in louing thee,</l>
+               <l>And looking too, ſhould be more blind then he.</l>
+            </lg>
+            <lg>
+               <l>Why doe I ſigh, and ſob, and broyle, and burne?</l>
+               <l>Why doe I ſeeke to ſtriue againſt the ſtreame?</l>
+               <l>Letters, nor loue, nor lookes, thy heart can turne,</l>
+               <l>Why doe I then make loue my onely theame?</l>
+               <l>I loue, you hate, I write; but what the better?</l>
+               <l>I burne in loue, and you doe burne my letter.</l>
+            </lg>
+            <pb facs="tcp:25335:30"/>
+            <lg>
+               <l>Poore harmeleſſe verſes, what did ye commit?</l>
+               <l>Hard hearted <hi>Flora</hi> how did they offend thee?</l>
+               <l>More verſes haue I made for thee, but yet</l>
+               <l>Ile ſweare thou ſhalt not burne the next Ile ſend thee.</l>
+               <l>Burning's too baſe a death, therefore the reſt,</l>
+               <l>If they deſerue to die, they ſhall be preſt.</l>
+            </lg>
+         </div>
+         <div type="poem_with_parody">
+            <pb facs="tcp:25335:30"/>
+            <head>Maſter <hi>Johnſons</hi> anſwer to Maſter <hi>Withers.</hi>
+            </head>
+            <lg>
+               <head>Withers.</head>
+               <l>SHall I waſting in deſpaire,</l>
+               <l>Die becauſe a woman's faire,</l>
+               <l>Or my cheekes make pale with care,</l>
+               <l>Cauſe anothers roſie are?</l>
+               <l>Be ſhe fairer then the day,</l>
+               <l>Or the flowrie Meades in <hi>May,</hi>
+               </l>
+               <l>
+                  <hi>If ſhe be not ſo to mee,</hi>
+               </l>
+               <l>
+                  <hi>What care I how faire ſhe be?</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>Iohnſon.</head>
+               <l>Shall I mine affection ſlacke,</l>
+               <l>'Cauſe I ſee a woman's blacke,</l>
+               <l>Or my ſelfe with care caſt downe,</l>
+               <l>'Cauſe I ſee a woman browne?</l>
+               <l>Be ſhe blacker then the night,</l>
+               <l>Or the blackeſt iet in ſight:</l>
+               <l>
+                  <hi>If ſhe ſeeme not ſo to mee,</hi>
+               </l>
+               <l>
+                  <hi>What care I how blacke ſhee be?</hi>
+               </l>
+            </lg>
+            <pb facs="tcp:25335:31"/>
+            <lg>
+               <head>Withers.</head>
+               <l>Shall my fooliſh heart be pinde,</l>
+               <l>'Cauſe I ſee a woman's kinde,</l>
+               <l>Or a well diſpoſed nature</l>
+               <l>Ioyned in a comely feature?</l>
+               <l>Be ſhe kinde or meeker than</l>
+               <l>Turtle Doue, or Pellican;</l>
+               <l>
+                  <hi>If ſhe be not ſo to mee,</hi>
+               </l>
+               <l>
+                  <hi>What care I how kinde ſhe be?</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>Iohnſon.</head>
+               <l>Shall my fooliſh heart be burſt,</l>
+               <l>'Cauſe I ſee a woman's curſt,</l>
+               <l>Or a thwarting hoggiſh nature</l>
+               <l>Ioyned in as bad a feature;</l>
+               <l>Be ſhe curſt or fiercer then</l>
+               <l>Brutiſh Beaſt, or ſauage Men:</l>
+               <l>
+                  <hi>If ſhe be not ſo to mee,</hi>
+               </l>
+               <l>
+                  <hi>What care I how curſt ſhee be?</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>Withers.</head>
+               <l>Shall a womans vertues make,</l>
+               <l>Me to periſh for her ſake,</l>
+               <l>Or her merits value knowne</l>
+               <l>Make me quite forget my owne?</l>
+               <l>Be ſhe with that goodneſſe bleſt,</l>
+               <l>That may merit name of beſt:</l>
+               <l>
+                  <hi>If ſhe ſeeme not ſo to mee,</hi>
+               </l>
+               <l>
+                  <hi>What care I how good ſhe be?</hi>
+               </l>
+            </lg>
+            <pb facs="tcp:25335:31"/>
+            <lg>
+               <head>Iohnſon.</head>
+               <l>Shall a womans vices make,</l>
+               <l>Me her vertues quite forſake,</l>
+               <l>Or her faults to me made knowne,</l>
+               <l>Make me thinke that I haue none?</l>
+               <l>Be ſhee of the moſt accurſt,</l>
+               <l>And deſerue the name of worſt:</l>
+               <l>
+                  <hi>If ſhe be not ſo to me,</hi>
+               </l>
+               <l>
+                  <hi>What care I how bad ſhe be?</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>Withers</head>
+               <l>Cauſe her fortunes ſeemes too high,</l>
+               <l>Should I play the foole and dye?</l>
+               <l>He that beares a noble minde,</l>
+               <l>If not outward helpe he find,</l>
+               <l>Thinke what with them he would do,</l>
+               <l>That without them dares to wooe.</l>
+               <l>
+                  <hi>And vnleſſe that minde I ſee,</hi>
+               </l>
+               <l>
+                  <hi>What care I how great ſhe be.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>Iohnſon.</head>
+               <l>Cauſe her fortunes ſeemes too loe,</l>
+               <l>Shall I therefore let her goe?</l>
+               <l>He that beares an humble mind,</l>
+               <l>And with riches can be kinde,</l>
+               <l>Thinke how kinde a heart hee'd haue,</l>
+               <l>If he were ſome ſeruile ſlaue:</l>
+               <l>
+                  <hi>And if that ſame minde I ſee,</hi>
+               </l>
+               <l>
+                  <hi>What care I how poore ſhe be.</hi>
+               </l>
+            </lg>
+            <pb facs="tcp:25335:32"/>
+            <lg>
+               <head>Withers.</head>
+               <l>Great, or good, or kind, or faire,</l>
+               <l>I will ne're the more diſpaire,</l>
+               <l>If ſhe loue me then beleeue,</l>
+               <l>I will die, ere ſhe ſhall grieue,</l>
+               <l>If ſhe ſlight me when I wooe,</l>
+               <l>I can ſlight, and bid her goe:</l>
+               <l>
+                  <hi>If ſhe be not fit for me,</hi>
+               </l>
+               <l>
+                  <hi>What care I for whom ſhe be?</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>Iohnſon.</head>
+               <l>Poore, or bad, or curſt, or blacke,</l>
+               <l>I will nere the more be ſlacke,</l>
+               <l>If ſhe hate me, then beleeue,</l>
+               <l>Shee ſhall die ere I will grieue,</l>
+               <l>If ſhe like me when I wooe,</l>
+               <l>I can like and loue her too:</l>
+               <l>
+                  <hi>If that ſhe be fit for me,</hi>
+               </l>
+               <l>
+                  <hi>VVhat care I what others be?</hi>
+               </l>
+            </lg>
+            <div type="to_the_reader">
+               <lg>
+                  <head>To the Reader.</head>
+                  <l>
+                     <hi>IT is a common cuſtome now adayes,</hi>
+                  </l>
+                  <l>
+                     <hi>For one to wright vpon anothers praiſe:</hi>
+                  </l>
+                  <l>
+                     <hi>But I no Trumpets ſeeke, no ſound of Drums,</hi>
+                  </l>
+                  <l>
+                     <hi>No man for me ſhall make incomiums:</hi>
+                  </l>
+                  <l>
+                     <hi>Their verſes cannot make theſe verſes better,</hi>
+                  </l>
+                  <l>
+                     <hi>They will not mend a ſtaffe, a line, a letter.</hi>
+                  </l>
+               </lg>
+            </div>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:25335:32"/>
+            <head>The cries of <hi>Ludgate.</hi>
+            </head>
+            <l>NOble King <hi>Lud,</hi> long heare haſt thou ſtood,</l>
+            <l>Not framed of wood,</l>
+            <l>But of ſtones;</l>
+            <l>Stones ſure thou art, like our creditors heart,</l>
+            <l>Which cares not a —.</l>
+            <l>For our grones</l>
+            <l>Within thy gates, the cry at thy grates,</l>
+            <l>Though it moues the ſtates of this City:</l>
+            <l>Our calling, our bawling, our yawling it moues not,</l>
+            <l>Our Creditors hearts vnto pitty.</l>
+            <l>In caps, and in coates, with ſorrowfull notes,</l>
+            <l>And tearing our throates</l>
+            <l>For reliefe:</l>
+            <l>Good, Sir, we cry, with a Box hanging by,</l>
+            <l>Heeres a hundred that lye</l>
+            <l>Full of griefe,</l>
+            <l>The Gallants ride on, and nere thinke vpon,</l>
+            <l>Our pitifull mone</l>
+            <l>Which we make,</l>
+            <l>But rumbling, and tumbling, and iumbling their Coaches,</l>
+            <l>The ſtones in the ſtreetes they do ſhake.</l>
+            <l>Marchants that goe by the gate too and fro,</l>
+            <l>There hearts at our woe,</l>
+            <pb facs="tcp:25335:33"/>
+            <l>Seeme to ſhake,</l>
+            <l>Thinking what croſſes, what griefe, &amp; what loſſes,</l>
+            <l>When theire carackes to ſea,</l>
+            <l>They take,</l>
+            <l>Theſe men are beſt, remorſe in their breſt,</l>
+            <l>Doth harbour and reſt</l>
+            <l>To the needy,</l>
+            <l>They roundly, profoundly, and ſoundly are gi<g ref="char:EOLhyphen"/>uing,</l>
+            <l>As if they to free them were greedy.</l>
+            <l>Others paſſe by, and caſt vp an eye</l>
+            <l>Vpon that cry,</l>
+            <l>In diſdaine,</l>
+            <l>Saying, that we, all quickly would be,</l>
+            <l>If now we were free, heere againe:</l>
+            <l>Let them take heede, that mock vs indeede,</l>
+            <l>And thus at our neede goe by giuing,</l>
+            <l>Tis ſo man, that no man, can know man his ending,</l>
+            <l>Though well he may know his beginning.</l>
+         </div>
+         <div type="song">
+            <pb facs="tcp:25335:33"/>
+            <head>The Song of the Begger.</head>
+            <lg>
+               <l>I Am a Rogue and a ſtout one,</l>
+               <l>A moſt couragious drinker,</l>
+               <l>I doe excell, t'is knowne full well,</l>
+               <l>The Ratter, Tom, and Tinker</l>
+               <l>
+                  <hi>Still doe I crie, good your Worſhip good Sir,</hi>
+               </l>
+               <l>
+                  <hi>Beſtow one ſmall denire Sir,</hi>
+               </l>
+               <l>
+                  <hi>And brauely then at the bouſing can,</hi>
+               </l>
+               <l>
+                  <hi>Ile bouſe it all in beere Sir.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>If a Bung be got by the hye Law,</l>
+               <l>Then ſtraight I doe attend them,</l>
+               <l>For if Hue and cry do follow I,</l>
+               <l>A wrong way ſoone do ſend them.</l>
+               <l>
+                  <hi>Still do I cry, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Ten miles vnto a Market,</l>
+               <l>I runne to meete a Miſer,</l>
+               <l>Then in a throng, I nip his Bong,</l>
+               <l>And the Party nere the wiſer.</l>
+               <l>
+                  <hi>Still do I cry, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>My dainty Dals, my Doxis,</l>
+               <l>When ere they ſee melacking,</l>
+               <l>Without delay poore wretches they,</l>
+               <l>Will ſet their Duds a packing.</l>
+               <l>
+                  <hi>Still do they cry, &amp;c.</hi>
+               </l>
+            </lg>
+            <pb facs="tcp:25335:34"/>
+            <lg>
+               <l>I pay for what I call for,</l>
+               <l>And ſo perforce it muſt be,</l>
+               <l>For as yet I cannot know the man,</l>
+               <l>Nor Oaſtis that will truſt me.</l>
+               <l>
+                  <hi>Still do I cry, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>If any giues me lodging,</l>
+               <l>A courteous knaue they finde me,</l>
+               <l>For in their bed, aliue or dead,</l>
+               <l>I leaue ſome lice behinde me,</l>
+               <l>
+                  <hi>Still do I cry, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>If a gentry coe be comming,</l>
+               <l>Then ſtraight it is our faſhion,</l>
+               <l>My Leg I tye cloſe to my thigh,</l>
+               <l>To mooue him to compaſſion.</l>
+               <l>
+                  <hi>Still doe I cry &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>My dublet ſleeue hangs empty,</l>
+               <l>And for to beg the boulder,</l>
+               <l>For meate and drink, mine arme I ſhrinke</l>
+               <l>Vp cloſe vnto my ſhoulder.</l>
+               <l>
+                  <hi>Still do I cry, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>If a Coatch I heare be rumbling,</l>
+               <l>To my Crutches then I hve me,</l>
+               <l>For being lame, it is a ſhame,</l>
+               <l>Such Gallants ſhould deny me.</l>
+               <l>
+                  <hi>Still do I c<g ref="char:cmbAbbrStroke">̄</g>ry, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>With a ſeeming burſen belly,</l>
+               <pb facs="tcp:25335:34"/>
+               <l>I looke like one halfe dead ſir,</l>
+               <l>Or elſe I begg with a wodden leg,</l>
+               <l>And a Night-cap on my head ſir.</l>
+               <l>
+                  <hi>Still doe I cry, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>In Winter time ſtarke naked,</l>
+               <l>I come into ſome City,</l>
+               <l>Then euery man that ſpare them can,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ll giue me cloathes for pity.</l>
+               <l>
+                  <hi>Still do I cry, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>If from out the Low country,</l>
+               <l>I heare a Captaines name ſir,</l>
+               <l>Then ſtraight I ſweare I haue beene there,</l>
+               <l>And ſo in fight came lame ſir.</l>
+               <l>
+                  <hi>Still doe I cry, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>My Dog in a ſtring doth leade me,</l>
+               <l>When in the towne I goe ſir,</l>
+               <l>For to the blinde, all men are kinde,</l>
+               <l>And will their Almes beſtow ſir,</l>
+               <l>
+                  <hi>Still doe I cry, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>With ſwitches ſometimes ſtand I,</l>
+               <l>In the bottome of a Hill ſir,</l>
+               <l>There thoſe men which, do want a ſwitch</l>
+               <l>Some mony giues me ſtill ſir,</l>
+               <l>
+                  <hi>Still do I cry, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Come by, come by, a horne booke,</l>
+               <l>Who buyes my pins or needles:</l>
+               <pb facs="tcp:25335:35"/>
+               <l>In Cities I, theſe things do cry.</l>
+               <l>Oft times to ſcape the Beadles.</l>
+               <l>
+                  <hi>Still doe I cry, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>In Pauls Church by a Pillar,</l>
+               <l>Sometimes you ſee me ſtand ſir,</l>
+               <l>With a writ that ſhewes what care &amp; woes,</l>
+               <l>I paſt by Sea and Land ſir.</l>
+               <l>
+                  <hi>Still doe I cry, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Now blame me not for boaſting,</l>
+               <l>And bragging thus a lone Sir,</l>
+               <l>For my ſelfe I will be prayſing ſtill,</l>
+               <l>For neighbours haue I none Sir:</l>
+               <l>
+                  <hi>Which makes me crie good your Worſhip good ſir,</hi>
+               </l>
+               <l>
+                  <hi>Beſtow one ſmall dinere Sir,</hi>
+               </l>
+               <l>
+                  <hi>And brauely then at The bouſing Kan,</hi>
+               </l>
+               <l>
+                  <hi>I bouſe it all in beere Sir.</hi>
+               </l>
+            </lg>
+            <pb facs="tcp:25335:35" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
